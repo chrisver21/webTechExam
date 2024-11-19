@@ -1,1 +1,0 @@
-export const productsPath = "http://localhost:8888/products";
