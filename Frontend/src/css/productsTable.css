@@ -1,0 +1,30 @@
+.productsTableLabel{
+    background-color: skyblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.MuiTextField-root{
+ display: flex !important;
+ width: 100% !important;
+ padding-left: 0 !important;
+}
+
+
+.MuiTableCell-head{
+    font-size: .84rem !important;
+    font-weight: bold !important;
+    background-color: lightgray;
+  
+}
+
+.modalCategory::first-letter{
+    text-transform: capitalize;
+    
+}
+
+.closeModal{
+    position: absolute !important;
+    right: 25px;
+    top: 15px;
+}
